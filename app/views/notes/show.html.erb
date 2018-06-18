@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Notes name:</strong>
+  <%= @note.notes_name %>
+</p>
+
+<p>
+  <strong>Nnotes status:</strong>
+  <%= @note.nnotes_status %>
+</p>
+
+<p>
+  <strong>Notes foto index:</strong>
+  <%= @note.notes_foto_index %>
+</p>
+
+<%= link_to 'Edit', edit_note_path(@note) %> |
+<%= link_to 'Back', notes_path %>

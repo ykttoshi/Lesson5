@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  notes_name: MyString
+  nnotes_status: MyString
+  notes_foto_index: 1
+
+two:
+  notes_name: MyString
+  nnotes_status: MyString
+  notes_foto_index: 1

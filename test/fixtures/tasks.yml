@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task_name: MyString
+  task_status: MyString
+  task_date: 2018-06-18
+
+two:
+  task_name: MyString
+  task_status: MyString
+  task_date: 2018-06-18
